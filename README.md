@@ -9,19 +9,13 @@ In today's competitive coffee industry, understanding sales trends, customer beh
 - **Microsoft Excel** – Data processing, pivot tables, and analysis.  
 
 ##  Results & Insights  
-### **1️ Revenue & Profit Trends**  
+
 -  **Consistent revenue growth** over six months, showing strong sales performance.  
 -  **Profit margins vary** by product, with premium coffee contributing the most.  
-
-### **2️ Best & Worst Selling Products**  
 -  **Top-selling items**: *Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee* drive the highest revenue.  
 -  **Low performers**: *Organic Chocolate, Green Beans, and Herbal Tea* generate minimal profit.  
-
-### ** Customer Behavior Analysis**  
-- **Peak Sales Hours**: 8 AM – 11 AM (morning rush) and 5 PM – 7 PM (evening commuters).  
+-  **Peak Sales Hours**: 8 AM – 11 AM (morning rush) and 5 PM – 7 PM (evening commuters).  
 -  **Busiest Days**: Fridays and Mondays see the highest sales.  
-
-### ** Store Location Performance**  
 -  **Majority of profit** comes from high-traffic locations.  
 -  **Underperforming stores** require better promotions or menu adjustments.  
 
