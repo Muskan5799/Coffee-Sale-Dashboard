@@ -1,5 +1,6 @@
 # ☕ Starbucks Coffee Sales Dashboard
 Welcome to the **official repository** for the **Starbucks Coffee Sales Dashboard**! 📊 This project is an **Excel-based interactive dashboard** designed to analyze **sales, revenue, profit trends, and customer behavior** at Starbucks locations.
+
 ![Starbucks Secret Menu Items You Need To Know About - Mashed](https://github.com/user-attachments/assets/5f24b617-1f8b-45b0-81f2-2d8deea41eba) 
 
 ## 📊 Key Features  
